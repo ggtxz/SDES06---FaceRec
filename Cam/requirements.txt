@@ -1,0 +1,8 @@
+opencv-python-headless
+opencv-contrib-python
+numpy
+opencv-python
+requests
+fastAPI
+datetime
+uvicorn
